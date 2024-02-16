@@ -18,7 +18,7 @@ This project demonstrates an AI chatbot that can mimic the conversation style of
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/ai_chatbot.git
+git clone https://github.com/mrgenius01/aichatbot.git
 cd ai_chatbot
 
 
